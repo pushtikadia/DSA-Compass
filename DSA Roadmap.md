@@ -1,4 +1,3 @@
-
 # 🗺️ Data Structures & Algorithms Roadmap
 
 This roadmap is designed to take you from the basics of programming to advanced interview preparation, covering essential data structures, algorithms, and problem-solving techniques.
