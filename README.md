@@ -1,4 +1,4 @@
-# 🗺️ Algo-Atlas: DSA Roadmap & Solutions
+# 🗺️ Algo-Atlas: DSA Roadmap & Solutions 🧭
 
 My journey mastering Data Structures and Algorithms, organized by topic.
 
